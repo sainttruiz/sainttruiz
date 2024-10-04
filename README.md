@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sainttruiz
-- 👀 I’m interested in algorithms and backend development
-- 🌱 I’m currently learning Java with backend
+- 👀 I’m interested in Data Sructures, algorithms and backend development
+- 🌱 I’m currently learning Backend with Java
 - ⚡ Fun fact: Eren was right
 
 <!---
